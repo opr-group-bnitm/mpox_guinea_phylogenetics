@@ -1,0 +1,33 @@
+place	latitude	longitude	precision
+Guinea: Daro, Macenta, Macenta	8.518318932489176	-9.568553586385917	google maps
+Guinea: Koyama, Macenta, Macenta	7.912444589394656	-9.352981369237616	google maps
+Guinea: Houndonin, Urbain, Gueckedou	8.555451445939761	-10.080710978443356	google maps: Houndoni
+Guinea: Kondebadou, Gueckedou	9.000072775732686	-9.802261832149192	google maps Kondiadou
+Guinea: Gueckedou, Gueckedou	8.56067872001169	-10.133916646547084	google maps
+Guinea: Fandou-Yema, Temessadou djibo, Gueckedou	8.656799791312448	-10.439016064697604	google maps Fandou
+Guinea: Saapé, Tekoulo, Gueckedou	8.543842	-9.953493	sub-prefecture centroid (Tekoulo)
+Guinea: Bakama Lela, Kondebadou, Gueckedou	8.575109166128563	-9.823157264174869	google maps: Bakama
+Guinea: Woledou, Urbain, Gueckedou	8.50525	-10.23895	locality-level
+Guinea: Dubreka, Kindia	9.79111	-13.52330	Dubréka town centroid - google maps checked
+Guinea: Kaloum, Conakry	9.509167	-13.712222	commune centroid - google maps checked
+Guinea: Matoto, Conakry	9.576944	-13.611944	commune centroid - google maps checked
+Guinea: Ratoma, Conakry	9.583333	-13.650000	approx (Ratoma commune centroid) - google maps checked
+Guinea: Matam, Conakry	9.566667	-13.633333	approx (Matam commune centroid) - google maps checked
+Guinea: Cimenterie, Dubreka, Kindia	9.79111	-13.52330	Dubréka town centroid - google maps checked
+Guinea: T10, Dubreka, Kindia	9.79111	-13.52330	approx (Dubréka town centroid)
+Guinea: Kaloum, Kaloum, Conakry	9.509167	-13.712222	commune centroid - google maps checked
+Guinea: Matoto, Matoto, Conakry	9.576944	-13.611944	commune centroid - google maps checked
+Guinea: Yumbaya, Matoto, Conakry	9.576944	-13.611944	approx (Matoto commune centroid)
+Guinea: Dabondy ecole, Matoto, Conakry	9.576944	-13.611944	approx (Matoto commune centroid)
+Guinea: Yembeya, Ratoma, Conakry	9.583333	-13.650000	approx (Ratoma commune centroid)
+Guinea: Taouyah, Ratoma, Conakry	9.583333	-13.650000	approx (Ratoma commune centroid)
+Guinea: Coleah centre, Matam, Conakry	9.566667	-13.633333	approx (Matam commune centroid)
+Guinea: Bonfi, Matam, Conakry	9.566667	-13.633333	approx (Matam commune centroid)
+Guinea: Dabola, Dabola, Faranah	10.74330	-11.10778	city centroid
+Guinea: Dabompa, Tombolia, Conakry	9.64056	-13.54556	approx (Tombolia centroid)
+Guinea: Dixinn, Dixinn, Conakry	9.55111	-13.67306	commune centroid
+Guinea: Hafia 1 Manière, Dixinn, Conakry	9.55111	-13.67306	approx (Dixinn commune centroid)
+Guinea: Ratoma, Ratoma, Conakry	9.583333	-13.650000	commune centroid
+Guinea: Sangoyah, Matoto, Conakry	9.576944	-13.611944	approx (Matoto commune centroid)
+Guinea: Simbaya, Ratoma, Conakry	9.583333	-13.650000	approx (Ratoma commune centroid)
+Guinea: Tombo Mosquée, Kaloum, Conakry	9.509167	-13.712222	approx (Kaloum commune centroid)

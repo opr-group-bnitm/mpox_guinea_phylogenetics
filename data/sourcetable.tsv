@@ -1,0 +1,15 @@
+Sequence_ID	Collection_date	Country (geo_loc_name)	Isolate	Host	genotype	isolation-source
+G1027	23-Aug-24	Guinea: Macenta	G1027	Homo sapiens	Clade IIa	Pustula
+G1041	04-Dec-24	Guinea: Macenta	G1041	Homo sapiens	Clade IIa	vesicular fluid
+G1100	19-Aug-25	Guinea: Gueckedou	G1100	Homo sapiens	Clade IIa	crust
+G1104	01-Aug-25	Guinea: Gueckedou	G1104	Homo sapiens	Clade IIa	vesicular fluid
+G1115	29-Sep-25	Guinea: Gueckedou	G1115	Homo sapiens	Clade IIa	Crust
+G1072	03-Jun-25	Guinea: Conakry	G1072	Homo sapiens	Clade IIb	vesicular fluid
+G1074	14-Jun-25	Guinea: Kindia	G1074	Homo sapiens	Clade IIb	Crust
+G1075	14-Jun-25	Guinea: Conakry	G1075	Homo sapiens	Clade IIb	Crust
+G1076	16-Jun-25	Guinea: Conakry	G1076	Homo sapiens	Clade IIb	Crust
+G1087	09-Jul-25	Guinea: Conakry	G1087	Homo sapiens	Clade IIb	Crust
+G1090	16-Jul-25	Guinea: Conakry	G1090	Homo sapiens	Clade IIb	Crust
+G1091	21-Jul-25	Guinea: Kindia	G1091	Homo sapiens	Clade IIb	Crust
+G1098	26-Aug-25	Guinea: Conakry	G1098	Homo sapiens	Clade IIb	Crust
+G1103	15-Oct-25	Guinea: Conakry	G1103	Homo sapiens	Clade IIb	Crust

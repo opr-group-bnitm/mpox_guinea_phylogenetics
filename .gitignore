@@ -1,0 +1,25 @@
+IIa/beast_configs/test.*.xml
+
+.DS_Store
+
+results/figures/
+
+# Ignore everything in results
+results/**
+results_original/
+
+# But keep directories so Git can descend into them
+!results/**/
+
+# Keep selected files
+!results/IIa/beast/relaxed_clock/combined.log
+!results/IIa/beast/strict_clock/combined.log
+
+!results/IIa/beast/relaxed_clock/mcc_median.tree
+!results/IIa/beast/strict_clock/mcc_median.tree
+
+!results/IIa/model_comparison.4baltic.treefile
+!results/IIa/model_comparison.4baltic.with_outgroup.treefile
+
+!results/IIb/model_comparison.4baltic.treefile
+!results/IIb/model_comparison.4baltic.with_outgroup.treefile
