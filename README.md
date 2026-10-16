@@ -1,6 +1,6 @@
 # Mpox phylogenies
 
-This repository contains scripts and data to reproduce the results presented in our manuscript "Emergence of mpox in Guinea: sporadic clade IIa cases and a clade IIb upsurge".
+This repository contains scripts and data to reproduce the results presented in our manuscript "Emergence of mpox in Guinea with sporadic clade IIa cases and a clade IIb upsurge".
 
 The analysis for clade IIa and clade IIb genomes found in guinea are in two separate folders (IIa and IIb). The directory both_clades contains scripts to create the figures in the manuscript. 
 
@@ -25,3 +25,17 @@ Beware, that if you recompute the results, these files will be overwritten.
 ## Plotting
 
 The plots in the paper can be reproduced with the jupyter notebook plot.ipynb. The relevant trees and metadata are provided in this repository (see previous section).
+
+## License and sequence data
+
+The analysis code in this repository is released under the MIT License (see LICENSE).
+
+This repository also contains mpox virus genome sequences from Pathoplexus that were available as Open Data and are redistributed in accordance with the [Pathoplexus Data Use Terms](https://pathoplexus.org/about/terms-of-use/data-use-terms#41-open-data).
+
+The datasets used for the phylogenetic analyses are available as two Pathoplexus SeqSets.
+
+Clade IIa: https://doi.org/10.62599/PP_SS_4522.1
+
+Clade IIb: https://doi.org/10.62599/PP_SS_4555.1
+
+The MIT License applies to the analysis code and does not supersede the original terms applicable to the sequence data.
